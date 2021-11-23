@@ -1,0 +1,16 @@
+.menu-one .sub-menu a{
+    display: none;
+}
+
+.menu-one:hover .sub-menu a{
+    display: block;
+}
+
+.menu-one .sub-menu .menu-oneo .sub-menuu a{
+    display: none;
+}
+
+.menu-one .sub-menu .menu-oneo:hover .sub-menuu a{
+    display: block;
+}
+
